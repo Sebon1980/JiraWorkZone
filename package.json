@@ -1,0 +1,22 @@
+{
+  "name": "jiraworkzone",
+  "version": "1.0.0",
+  "description": "testing jira REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebon1980/JiraWorkZone.git"
+  },
+  "author": "it´s me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebon1980/JiraWorkZone/issues"
+  },
+  "homepage": "https://github.com/Sebon1980/JiraWorkZone#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
